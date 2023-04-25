@@ -4,7 +4,7 @@ import { AiOutlineMinusCircle, AiOutlinePlusCircle } from "react-icons/ai";
 import { useEffect, useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
-import URL_base from "../URL_base";
+import URL_base from "../api/apiAuth";
 
 
 export default function HomePage({ setTransacao }) {
