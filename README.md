@@ -1,3 +1,19 @@
+MyWallet é similar a uma carteira digital, entretanto sua funcionalidade é de gerenciar gastos.
+
+Aqui você pode:
+
+Criar sua conta com email e senha
+Logar em uma conta já exixtente
+Adicionar valores de entrada de dinheiro
+Adcionar valores de saída de dinheiro
+Editar valores de entrada
+Editar valores de saída
+Excluir valores de entrada
+Excluir valores de saída
+O MyWallet foi criado com o intuito pessoal de gerenciar gastos sem precisar ficar recorrendo ao acesso a conta bancária sempre que quiser conferir.
+
+Em breve:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
