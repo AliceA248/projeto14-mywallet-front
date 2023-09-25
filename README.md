@@ -12,7 +12,6 @@ Excluir valores de entrada
 Excluir valores de saída
 O MyWallet foi criado com o intuito pessoal de gerenciar gastos sem precisar ficar recorrendo ao acesso a conta bancária sempre que quiser conferir.
 
-Em breve:
 
 # Getting Started with Create React App
 
