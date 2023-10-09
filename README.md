@@ -20,6 +20,12 @@ Excluir valores de saída
 
 O MyWallet foi criado com o intuito pessoal de gerenciar gastos sem precisar ficar recorrendo ao acesso a conta bancária sempre que quiser conferir.
 
+![image](https://github.com/AliceA248/projeto14-mywallet-front/assets/98560120/82cd54ed-86e4-4cea-a941-31e03375a360)
+![image](https://github.com/AliceA248/projeto14-mywallet-front/assets/98560120/0c6f6cf1-5760-4913-a5f6-db8689dc39c2)
+
+
+
+
 # Tecnologias
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
