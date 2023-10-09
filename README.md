@@ -2,21 +2,21 @@ MyWallet é similar a uma carteira digital, entretanto sua funcionalidade é de 
 
 Aqui você pode:
 
-Criar sua conta com email e senha
+- Criar sua conta com email e senha
 
-Logar em uma conta já existente
+- Logar em uma conta já existente
 
-Adicionar valores de entrada de dinheiro
+- Adicionar valores de entrada de dinheiro
 
-Adcionar valores de saída de dinheiro
+- Adcionar valores de saída de dinheiro
 
-Editar valores de entrada
+- Editar valores de entrada
 
-Editar valores de saída
+- Editar valores de saída
 
-Excluir valores de entrada
+- Excluir valores de entrada
 
-Excluir valores de saída
+- Excluir valores de saída
 
 O MyWallet foi criado com o intuito pessoal de gerenciar gastos sem precisar ficar recorrendo ao acesso a conta bancária sempre que quiser conferir.
 
